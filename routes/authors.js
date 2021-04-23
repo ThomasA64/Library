@@ -14,7 +14,7 @@ router.get("/new", (req, res) => {
 
 // Route for creating the authors
 router.post("/", (req, res) => {
-  res.send("Create");
+  res.send(req.body.name);
 });
 
 module.exports = router;
