@@ -13,12 +13,7 @@
 }
 
 body {
-  background: rgb(30, 68, 5);
-  background: linear-gradient(
-    135deg,
-    rgba(30, 68, 5, 1) 0%,
-    rgba(14, 2, 77, 1) 100%
-  );
+  background: rgba(14, 2, 77, 1) 100%;
   color: lightyellow;
 }
 
