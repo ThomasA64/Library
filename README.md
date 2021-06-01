@@ -1,4 +1,4 @@
-A Full-Stack Library Application using Node.js, Express.js and MongoDB
+Welcome to Library! A Full-Stack Library Application for all of your favourite books using CSS, Node.js, Express.js and MongoDB.
 
 ## Screenshots:
 
